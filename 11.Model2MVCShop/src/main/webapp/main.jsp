@@ -51,11 +51,11 @@
    	<div class="container text-center">
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron">
-        <h1>Model2MVCShop </h1>
-        <p>J2SE , DBMS ,JDBC , Servlet & JSP, Java Framework , HTML5 , UI Framework 학습 후 Mini-Project 진행</p>
+        <h1>Lifestyle Curation Store </h1>
+        <p>귀엽고 아기자기한 소품이 가득한 곳</p>
      </div>
      <div>
-     	<img src="/images/IMG_7759.GIF"  class="img-rounded" width="300px" height="500px">
+     	<img src="/images/20211117_011257962.jpg"  class="img-rounded" width="800px" height="500px">
      </div>
     </div><br>
 
