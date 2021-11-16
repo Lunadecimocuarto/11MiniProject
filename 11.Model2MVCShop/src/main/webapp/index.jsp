@@ -154,8 +154,8 @@
 	 	 	<!--  Main start /////////////////////////////////////-->   		
 	 	 	<div class="col-md-9">
 				<div class="jumbotron">
-			  		<h1>Lifestyle Curation Store</h1>
-			  		<p>로그인 후 사용가능...</p>
+			  	<img src="/images/20211117_012435902.jpg"  class="img-rounded" width="600px" height="500px">
+			  		<h2>Lifestyle Curation Store</h2>
 			  		<p>로그인 전 검색만 가능합니다.</p>
 			  		<p>회원가입 후 이용해주세요~</p>
 			  		
