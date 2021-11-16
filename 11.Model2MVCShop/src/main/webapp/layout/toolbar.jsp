@@ -124,4 +124,32 @@
 			$(self.location).attr("href","/user/getUser?userId=${sessionScope.user.userId}");
 		});
 		
+	 	//=============  판매상품등록 Event  처리 =============	
+		$(function(){
+			$("a:contains('판매상품등록')").on("click",function(){
+				$(self.location).attr("href","/product/addProduct");
+			});
+		})
+		
+		
+		$(function(){
+			$("a:contains('상 품 검 색')").on("click",function(){
+				$(self.location).attr("href","/product/listProduct?menu=search");
+			});
+		})
+		
+		
+		$(function(){
+			$("a:contains('판매상품관리')").on("click",function(){
+				$(self.location).attr("href","/product/listProduct?menu=manage");
+			});
+		})
+		
+			$(function(){
+			$("a:contains('최근본상품')").on("click",function(){
+				//$(self.location).attr("href","/history.jsp");
+				window.open("/history.jsp","small", "width=200, height=300, scrollbars=yes, menubar=no, location=yes");
+			});
+		})
+		
 	</script>  

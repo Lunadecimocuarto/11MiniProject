@@ -150,7 +150,7 @@
 			  		<h1>Model2 MVC Shop</h1>
 			  		<p>로그인 후 사용가능...</p>
 			  		<p>로그인 전 검색만 가능합니다.</p>
-			  		<p>회원가입 하세요.</p>
+			  		<p>회원가입 후 이용해주세요~</p>
 			  		
 			  		<div class="text-center">
 			  			<a class="btn btn-info btn-lg" href="#" role="button">회원가입</a>

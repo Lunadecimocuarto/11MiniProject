@@ -94,12 +94,12 @@
 								success : function(JSONData , status) {
 
 									var displayValue = "<h6>"
-																+"아이디 : "+JSONData.userId+"<br/>"
-																+"이  름 : "+JSONData.userName+"<br/>"
-																+"이메일 : "+JSONData.email+"<br/>"
-																+"ROLE : "+JSONData.role+"<br/>"
-																+"등록일 : "+JSONData.regDateString+"<br/>"
-																+"</h6>";
+													+"아이디 : "+JSONData.userId+"<br/>"
+													+"이  름 : "+JSONData.userName+"<br/>"
+													+"이메일 : "+JSONData.email+"<br/>"
+													+"ROLE : "+JSONData.role+"<br/>"
+													+"등록일 : "+JSONData.regDateString+"<br/>"
+													+"</h6>";
 									$("h6").remove();
 									$( "#"+userId+"" ).html(displayValue);
 								}
